@@ -1,15 +1,4 @@
-/*
-LUCAS EMMANUEL DE SOUSA ALVES - 211080349
-Rafael de Sousa Cavalcante - 211080152
-José Ivan Abrantes Virgínio - 211080160
-Edilson do Nascimento Costa júnior - 211080101
-Pedro Gabriel Girao Almeida - 211080284
-CAIO HENRIQUE BARBOSA DA SILVA - 211080314
-José Vinícius Silva Alves - 211080390
-Gabriel Yuri Ramalho Ferreira - 211080330
-Jenniffer Kelly Rufino de Araújo- 172080444
-Joyce Lima Avelino - 211080047
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
